@@ -6,4 +6,4 @@
    1. Image recognition: Used Tensorflow, vgg16 model, numpy to recognise a batch of images. 
    3. Style transfer: Used Tensorflow, vgg16 model, numpy to transfer the style components from one image and merge it into another image.  
 3. Video Editing with python_demo:
-Used MoviePy module in Python for video editing. Took clips from a movie trailer and edited in different ways. Link to video: https://www.youtube.com/watch?v=sSQVKjD_3I0
+Used MoviePy module in Python for video editing. Took clips from a series trailer and edited in different ways. Link to video: https://www.youtube.com/watch?v=sSQVKjD_3I0
